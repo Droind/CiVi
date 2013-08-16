@@ -1,5 +1,6 @@
 CiVi
 ====
+Main idea made by Eric Cabanillas. Spain
 
 Cloud Clipboard using API Dropbox
 ---------------------------------------
@@ -15,5 +16,15 @@ How to test:
   other machine you can paste the clipboard.
   
   
-------------------
-Source JAVA Anotattions:
+--------------------------------------  
+---------------------------------------
+Source JAVA Anotations:
+
+I have an a AP key and secret key. This is my "ID" developer. 
+
+---------------------------------------
+Source Android Anotations:
+
+I have an a AP key and secret key. This is my "ID" developer.
+
+The main function it works, but maybe it can modify de interface for do ir more "friendly".
